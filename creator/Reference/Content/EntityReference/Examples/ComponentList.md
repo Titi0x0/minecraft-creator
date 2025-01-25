@@ -51,8 +51,8 @@ Below is a list of all available Components within Minecraft: Bedrock Edition fo
 |[minecraft:damage_over_time](EntityComponents/minecraftComponent_damage_over_time.md) |`minecraft:damage_over_time` applies a defined amount of damage to the entity at specified intervals.|
 |[minecraft:damage_sensor](EntityComponents/minecraftComponent_damage_sensor.md) |`minecraft:damage_sensor` defines what events to initiate when the entity is damaged by specific entities or items.|
 |[minecraft:default_look_angle](EntityComponents/minecraftComponent_default_look_angle.md) |`minecraft:default_look_angle` sets the entity's default head rotation angle. |
-|[minecraft:despawn](EntityComponents/minecraftComponent_despawn.md) |`minecraft:despawn` prevents the entity from changing dimension through portals.|
-|[minecraft:dimension_bound](EntityComponents/minecraftComponent_dimension_bound.md) |`minecraft:dimension_bound` compels an entity despawn when the despawn rules or optional filters evaluate to true.|
+|[minecraft:despawn](EntityComponents/minecraftComponent_despawn.md) |`minecraft:despawn` compels an entity despawn when the despawn rules or optional filters evaluate to true.|
+|[minecraft:dimension_bound](EntityComponents/minecraftComponent_dimension_bound.md) |`minecraft:dimension_bound` prevents the entity from changing dimension through portals.|
 |[minecraft:drying_out_timer](EntityComponents/minecraftComponent_drying_out_timer.md) |`minecraft:drying_out_timer` sets a timer for drying out that will count down and initiate 'dried_out_event' or will stop as soon as the entity gets under rain or water, initiating `stopped_drying_out_event`.|
 |[minecraft:dweller](EntityComponents/minecraftComponent_dweller.md) |`minecraft:dweller` compels an entity to join and migrate between villages and other dwellings.|
 |[minecraft:economy_trade_table](EntityComponents/minecraftComponent_economy_trade_table.md) |`minecraft:economy_trade_table` defines the entity's ability to trade with players.|
